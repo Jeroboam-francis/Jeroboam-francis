@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?, I am Jeroboam!</h1>
 
 <!-- Introduction Section -->
 <p align="left">I'm Jeroboam, a passionate fullstack software developer from Kenya 🇰🇪</p>
