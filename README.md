@@ -3,12 +3,10 @@
 <!-- Introduction Section -->
 <p align="left">I'm Jeroboam, a passionate fullstack software developer from Kenya 🇰🇪</p>
 
-
 <!-- About Me Section -->
 <h2 align="left">About me</h2>
 
 <p align="left">
-<!-- Brief description of interests and goals -->
 🚀 Passionate about creating efficient, scalable solutions<br>
 📚 Currently diving deeper into backend development<br>
 🎯 Goal: Becoming a well-equipped and skilled developer<br>
@@ -21,7 +19,6 @@
 
 <h3 align="left">Frontend</h3>
 <div align="left">
-  <!-- Frontend technology logos -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   </a>
@@ -45,7 +42,6 @@
 
 <h3 align="left">Backend</h3>
 <div align="left">
-  <!-- Backend technology logos -->
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   </a>
@@ -58,10 +54,13 @@
 <!-- GitHub Stats Section -->
 <h2 align="left">🔥 My Stats</h2>
 
-<!-- GitHub Streak stats -->
+<!-- GitHub Streak Stats -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeroboam-francis&theme=dark&hide_border=false)](https://github.com/Jeroboam-francis)
 
-<!-- Top Programming Languages stats -->
+<!-- GitHub Readme Stats -->
+[![Jeroboam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeroboam-francis&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/Jeroboam-francis)
+
+<!-- Top Languages Stats -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeroboam-francis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Jeroboam-francis)
 
 <!-- Current Projects Section -->
@@ -74,7 +73,6 @@
 <h2 align="left">🤝 Let's Connect</h2>
 
 <p align="left">
-  <!-- Social Media and Contact Badges -->
   <a href="https://www.linkedin.com/in/jeroboam/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin badge" />
   </a>
@@ -91,4 +89,9 @@
 
 <!-- Support Section -->
 <h2 align="left">Support</h2>
-<!-- This section can include links for coffee support or sponsorship if needed -->
+<p align="left">
+  <!-- Add a coffee or sponsorship link if you'd like -->
+  <a href="https://www.buymeacoffee.com/jeroboam" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35" alt="buy me a coffee badge" />
+  </a>
+</p>
